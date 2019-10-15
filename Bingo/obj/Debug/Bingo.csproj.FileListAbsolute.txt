@@ -1,0 +1,9 @@
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\bin\Debug\Bingo.exe.config
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\bin\Debug\Bingo.exe
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\bin\Debug\Bingo.pdb
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.csprojAssemblyReference.cache
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.Properties.Resources.resources
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.csproj.GenerateResource.cache
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.csproj.CoreCompileInputs.cache
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.exe
+D:\Arquivos\Projetos\Visual Studio\Bingo\Bingo\obj\Debug\Bingo.pdb
